@@ -7,7 +7,7 @@ live demo <a href="https://finmyjop.web.app/">finmyjop.web.app</a>
 
 ## Install
 <ol>
-    <li> git clone https://github.com/korospace/blic-latihan-slicing2.git </li>
+    <li> git clone https://github.com/korospace/finjop.git </li>
     <li> npm install </li>
     <li> npm run dev </li>
 </ol>

@@ -93,4 +93,4 @@ gulp.task('server', async function(){
 
 gulp.task('build', gulp.series('minify-html', 'compile-sass', 'minify-js', 'compile-plugin', 'imagemin', 'others'));
 
-gulp.task('default', gulp.series('build', 'watch', 'server',));
+gulp.task('default', gulp.series('build', 'watch', 'server'));
